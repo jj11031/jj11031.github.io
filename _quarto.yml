@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "jj11031.github.io"
+  title: "Jayjit's Data Science Portfolio"
   navbar:
     left:
       - href: index.qmd
